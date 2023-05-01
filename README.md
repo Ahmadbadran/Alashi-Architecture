@@ -1,4 +1,6 @@
 # Alashi-Architecture
+## live url
+https://ahmadbadran.github.io/Alashi-Architecture/
 
 ## WireFrame link
 https://www.figma.com/file/p1nfjiWm8sue9lvHHrxBH3/Alashi-Architecture-wireFrame?node-id=0%3A1&t=KvsGjqjBvAkDKo2b-1
